@@ -1,14 +1,13 @@
 import React, { Component } from 'react';
-import "../style/pin.module";
+import "../style/Pin.module.css";
 
-class pin extends Component {
+class Pin extends Component {
     render() {
         return (
-            <div>
-                
-            </div>
+            <>
+            </>
         );
     }
 }
 
-export default pin;
+export default Pin;
