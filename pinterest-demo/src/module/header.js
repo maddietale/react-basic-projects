@@ -11,7 +11,7 @@ class Header extends Component {
             <>
                 <div className={style.container}>
                     <img className={style.logo} alt='pinterest logo' src={logo} />
-                    <button className={style.menu} >Home</button>
+                    <button style={{ backgroundColor: "black", color: "white" }} className={style.menu} >Home</button>
                     <button className={style.menu} >Today</button>
                     <button className={style.menu} >Create</button>
                     <input className={style.search} type="search" placeholder='search' />
