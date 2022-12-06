@@ -4,13 +4,13 @@ import Pin from "../module/Pin";
 // image address
 import img01 from "../img/01.png";
 import img02 from "../img/02.jpeg";
-import img03 from "../img/011.jpeg";
+import img03 from "../img/03.jpeg";
 import img04 from "../img/04.jpeg";
-import img05 from "../img/012.jpeg";
+import img05 from "../img/05.jpeg";
 import img06 from "../img/06.jpeg";
-import img07 from "../img/09.jpeg";
+import img07 from "../img/07.jpeg";
 import img08 from "../img/08.jpeg";
-import img09 from "../img/05.jpeg";
+import img09 from "../img/09.jpeg";
 import img10 from "../img/010.jpeg";
 
 class Main extends Component {
