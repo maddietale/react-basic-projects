@@ -36,3 +36,11 @@
   border-radius: 30px;
   background-color: rgb(240, 240, 240);
 }
+
+.icon:hover {
+  cursor: pointer;
+}
+
+.menu:hover {
+  cursor: pointer;
+}

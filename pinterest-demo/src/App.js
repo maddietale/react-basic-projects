@@ -1,11 +1,12 @@
 import React from 'react';
-import Style from "./style/App.module.css";
 import Header from "./module/Header";
+import Main from './module/Main';
 
 const App = () => {
   return (
     <>
       <Header />
+      <Main />
     </>
   );
 }
